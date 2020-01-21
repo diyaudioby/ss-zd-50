@@ -15,7 +15,8 @@ Simple softstart system for amplifier LM3886 ZD-50. This device can be used with
 - [Order PCB from PCBWay](https://www.pcbway.com/project/shareproject/softstart_zd_50.html)
 
 ### Related projects
-- [Link1]()
+- [Amplifier LM3886 ZD-50](https://github.com/diyaudioby/amp-lm3886-zd-50)
+- [Power supply for LM3886 ZD-50](https://github.com/diyaudioby/ps-zd-50)
 
 ### Folder structure
 Most folder names are self explanatory.
